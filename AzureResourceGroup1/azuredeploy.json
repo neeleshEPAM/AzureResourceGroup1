@@ -7,7 +7,7 @@
       "metadata": {
         "description": "Name of the resource"
       },
-      "maxLength": 15
+      "maxLength": 25
     },
 
     "location": {

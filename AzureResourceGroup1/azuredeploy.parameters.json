@@ -3,7 +3,7 @@
   "contentVersion": "1.0.0.0",
   "parameters": {
     "baseResourceName": {
-      "value": "ThisIsATest20201011"
+      "value": "ThisTest20201011"
     }
   }
 }
